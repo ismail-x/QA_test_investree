@@ -1,7 +1,7 @@
 # QA_test_investree
 this is for the QA test that i got
 
-1. First run your cypress app
+1. First run your cypress app </br>
 for me, i run it on Terminal 
 if your ide especially VSCODE works fine than go a head hit that npx cypress run on your console 
 ![Screen Shot 2022-04-29 at 19 43 06](https://user-images.githubusercontent.com/69149337/165946733-e8bb2486-1615-4ba0-bcdb-16fd9ce43bef.jpg)
